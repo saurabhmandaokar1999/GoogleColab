@@ -1,4 +1,4 @@
-**Data Science & Machine Learning Journey**
+### Data Science & Machine Learning Journey
 Welcome to my personal repository where I document my learning and projects in Data Science and Machine Learning. This repo serves as a comprehensive showcase of my skills development, experiments, and insights into various algorithms and techniques in the field.
 
 What's Inside?
